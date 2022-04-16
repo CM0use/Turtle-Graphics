@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![20220412_052839](https://user-images.githubusercontent.com/102839710/163655248-5b8e5281-7eb6-4d44-b904-9d341c652bb2.gif)
+![Gif](https://user-images.githubusercontent.com/102839710/163655248-5b8e5281-7eb6-4d44-b904-9d341c652bb2.gif)
 
 </div>
 
