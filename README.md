@@ -33,7 +33,7 @@
 
 ## Features
 
-* If you want to make the map smaller or bigger you can do it by changing the value of the MAX_COLUMNS and MAX_ROWS constants to the value you want, these constants are in the header/turtle.h file.
+* You can change the size of the map.
 * You can also change the appearance of the turtle and what it is drawing.
 * No installation necessary - just use the binary.
 * Easy to modify.
