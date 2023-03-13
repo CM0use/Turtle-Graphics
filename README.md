@@ -81,7 +81,7 @@ Just delete the folder you have cloned/downloaded from the repository.
 ## Contributing
 
 **Any contribution you make will be greatly appreciated.**<br>
-If you have any ideas/suggestions to improve the repository, please make a fork of the repository and create a pull request.<br>
+If you have any ideas/suggestions to improve the repository, make a fork of the repository and create a pull request.<br>
 You can also <a href="https://github.com/CM0use/Turtle-Graphics/issues">open the issue tracker</a> to report any improvements or bugs.<br>
 
 ## Author
