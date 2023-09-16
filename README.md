@@ -55,7 +55,7 @@ gcc -O2 -std=c2x src/main.c src/turtle.c -o TurtleGraphics
 
 ```
 
-Run on **macOS & Linux**:
+Run on **MacOS & Linux**:
 
 ```bash
 
