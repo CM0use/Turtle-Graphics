@@ -37,7 +37,7 @@
 * You can also change the appearance of the turtle and what it is drawing.
 * Easy to modify.
 * Cross-Platform
-  - Windows, macOS and Linux.
+  - Windows, MacOS and Linux.
 
 ## Requirements
 * gcc
