@@ -57,6 +57,10 @@ void showValues(const animal *const);
 void showMap(char [MAX_COLUMNS][MAX_ROWS]);
 void orientation(animal *const);
 void move(animal *const, char [MAX_COLUMNS][MAX_ROWS]);
+
+// function thanks to Felix Palmen felix@palmen-it.de 
+// more information https://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
+// and https://stackoverflow.com/questions/50096953/c-integer-safe-input
 uint16_t input(uint16_t *const);
 
 # endif
