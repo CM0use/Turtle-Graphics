@@ -66,7 +66,6 @@ If you have any ideas/suggestions to improve the repository, make a fork of the 
 You can also <a href="https://github.com/CM0use/Turtle-Graphics/issues">open the issue tracker</a> to report any improvements or bugs.<br>
 
 ## License
-
 **Distributed under the GNU General Public License v3.0**<br>
 See accompanying file <a href="https://github.com/CM0use/Turtle-Graphics/blob/main/LICENSE">LICENSE</a><br>
 or copy at <a href="https://www.gnu.org/licenses/gpl-3.0.txt">GNU General Public License</a>
