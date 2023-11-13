@@ -50,7 +50,7 @@ cd Turtle-Graphics
 gcc -O2 -std=c2x src/main.c src/turtle.c -o TurtleGraphics
 ```
 
-Run on **MacOS & Linux**:
+Run on **macOS & Linux**:
 ```bash
 ./TurtleGraphics
 ```
